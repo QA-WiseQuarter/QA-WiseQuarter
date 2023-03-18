@@ -7,6 +7,6 @@
 
 - 👯 I’m looking to ... [Presentation Files](#)
 
-- 🤝 I’m looking for Java [Javas](#)
+- 🛼 I’m looking for Java [Javas](#)
 
 
