@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pdf Files](#)
 
-- 🌱 I’m currently learning **New info..**
+- 🌱 I’m currently learning [New info...](#)
 
 - 👯 I’m looking to ... [Presentation Files](#)
 
